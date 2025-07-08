@@ -47,7 +47,7 @@
     "postcss-import": "^15.1.0",
     "postcss-loader": "^7.0.2",
     "postcss-preset-env": "^8.0.1",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
