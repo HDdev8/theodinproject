@@ -72,7 +72,7 @@ group :test do
   gem 'shoulda-matchers', '~> 5.3'
   gem 'simplecov', '~> 0.22', require: false
   gem 'vcr', '~> 6.1'
-  gem 'webmock', '~> 3.18'
+  gem 'webmock', '~> 3.25'
 end
 
 # TODO: These gems are no longer default in Ruby 3.1 and have to be declared explicity, or Rspec will break.
